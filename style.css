@@ -47,6 +47,7 @@ header > p {
  header a, footer a {
     color:white;
     text-decoration: none;
+    font-weight: bolder;
     
 }
 
